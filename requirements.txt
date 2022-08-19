@@ -1,0 +1,2 @@
+requests==2.28.1
+pyprind==2.11.3
